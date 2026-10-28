@@ -1,0 +1,17 @@
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Multisim temporary and backup files
+*.bak
+*.tmp
+*.log
+~*
+
+# Editor directories
+.vscode/
+.idea/
+
